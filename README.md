@@ -1,4 +1,4 @@
-# Inventory Management System
+# Stock Management System
 
 This is an Inventory Management System built in the form of a GUI desktop application developed in ***Java*** using ***MySQL*** as its database.
 The GUI was designed using **Swing** and the database connectivity was managed using **JDBC API**.
@@ -65,7 +65,8 @@ All the project dependencies are available in the [`lib`](lib/) directory.
 
 The login page takes in the credentials entered by the user and verifies with the database.
 
-![loginpage](screenshots/login.png)
+<img width="471" height="577" alt="login" src="https://github.com/user-attachments/assets/dde74dc5-d8d4-45ea-bc93-f9c5d3bc8bc1" />
+
 
 ### Dashboard/Welcome Page
 
